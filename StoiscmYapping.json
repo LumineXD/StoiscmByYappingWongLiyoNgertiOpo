@@ -4,9 +4,14 @@
     "expired": "2030-12-31",
     "role": "Admin"
   },
-    "AdminGuest": {
+  "AdminGuest": {
     "password": "GogoBawaGalaxy",
     "expired": "2025-03-10",
     "role": "Admin"
+  },
+  "Guest": {
+    "password": "Guest",
+    "expired": "2025-03-01",
+    "role": "SuperVIP"
   }
 }
