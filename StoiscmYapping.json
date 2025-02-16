@@ -8,5 +8,10 @@
     "password": "GogoBawaGalaxy",
     "expired": "2025-03-10",
     "role": "Admin"
+  },
+  "Leo": {
+    "password": "Leo",
+    "expired": "2025-03-16",
+    "role": "SuperVIP"
   }
 }
