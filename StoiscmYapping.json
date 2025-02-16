@@ -8,10 +8,5 @@
     "password": "GogoBawaGalaxy",
     "expired": "2025-03-10",
     "role": "Admin"
-  },
-  "Guest": {
-    "password": "Guest",
-    "expired": "2025-03-01",
-    "role": "SuperVIP"
   }
 }
