@@ -13,5 +13,10 @@
     "password": "Leo",
     "expired": "2025-03-16",
     "role": "SuperVIP"
+  },
+  "Test": {
+    "password": "Test",
+    "expired": "2025-03-18",
+    "role": "SuperVIP"
   }
 }
